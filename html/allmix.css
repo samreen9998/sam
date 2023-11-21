@@ -1,0 +1,21 @@
+/*
+syles with boader 
+properties */
+p {
+    border-style: dashed;
+    border-width: 10px;
+    border-color: hotpink;
+    border-bottom: dashed;
+    border-left-style: hidden;
+    border-right-style: inset;
+    border-top-style: groove;
+    border-top-color: blue ;
+    border-left-color: chartreuse ;
+    border-right-color: chocolate;
+    border-bottom-color: cadetblue;
+    background-color:bisque;
+    url("images/images.jpg")
+    no-repeat
+    bottom;
+    border-width: 10px;
+}

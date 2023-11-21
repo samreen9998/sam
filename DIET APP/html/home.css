@@ -1,0 +1,44 @@
+/* applying styles*/
+body {
+    box-sizing: border-box;
+}
+header {
+    background-color: rgb(86, 189, 93);
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+nav {
+    float:left;
+    background-color:  rgb(243, 98, 98);
+    width: 30%;
+    height: 200px;
+    align-items: center;
+
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li {
+    margin: 30px 50px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+article {
+    float:left;
+    background-color: blue;
+    height: 300px;
+    width:70%;
+}
+section::after {
+    display: table;
+    content: "";
+    clear:both;
+}
+footer {
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 30px;
+
+}

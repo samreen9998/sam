@@ -1,0 +1,17 @@
+/*
+applying styles
+*/
+/* element selector */
+h2 {
+    color: aqua;
+}
+/*grouping selector*/
+h2,p {
+    text-align: center;
+}
+/* id selector */
+#first {
+    color: blue;
+    font: bold;
+}
+/* universal selector */

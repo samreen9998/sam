@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Demo</title>
+        <link rel="stylesheet"
+        href="demo.css">
+        <style>
+            h2,h4 {
+                color:blueviolet;
+            }
+            h3 {
+                color:aqua;
+            }
+        </style>
+    </head>
+<body>
+    <h1 style="color:brown;">Good Afternoon</h1>
+    <h2>guys</h2>
+    <h3>have a good day</h3>
+    <h4>bye..</h4>
+</body>
+</html>
+   
+   

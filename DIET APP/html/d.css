@@ -1,0 +1,14 @@
+h2{
+    color: aqua;
+}
+h3{
+    color: rgb(123, 255, 0);
+}
+/*universal selector*/
+*{
+    text-align: center;
+}
+body{
+    background-color: blueviolet(119,200);
+    background-image: url("https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg");
+}
